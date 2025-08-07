@@ -56,7 +56,7 @@ I believe in **continuous learning** and **knowledge sharing**. The future belon
 ## Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mustaquimahmad/)  
-- 📝 [Personal Blog](mustaquim.medium.com)
+- 📝 [Personal Blog](https://mustaquim.medium.com)
 
 ---
 
