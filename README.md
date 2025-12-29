@@ -1,70 +1,116 @@
-# 👋 Hello, I'm Ahmad
+# 👋 Hi, I'm **Ahmad**
 
-### Strategic IT Engineer | IELTS Pedagogical Expert | Tech Innovator
+### IT Infrastructure & Operations Engineer | Azure AD • Intune • Endpoint Security • M365 | Tech Educator
 
-I am a **Results-Oriented IT Engineer** dedicated to architecting resilient infrastructures and optimizing enterprise ecosystems. My professional duality allows me to blend **technical rigor** with **educational creativity**, building intelligent solutions in both systems administration and language proficiency.
+I’m an **IT Infrastructure & Operations Engineer** with 8+ years of experience designing secure systems, managing enterprise networks, optimizing endpoint environments, and supporting mission-critical operations — especially in healthcare and corporate environments.
+
+I specialize in **Azure AD, Microsoft Intune, Windows Server, Endpoint Security, Network Monitoring, and IT Support Leadership** — while also mentoring learners in analytical English & IELTS strategy.
+
+I care about three things:
+
+✔️ **secure systems**  
+✔️ **reliable operations**  
+✔️ **empowering users — not overwhelming them**  
 
 ---
 
-## ⚡ At a Glance
+## 🚀 Core Expertise (SEO-Friendly)
 
-- 🛠️ **Systems Engineering**: Specializing in Active Directory, SCCM, Intune, and automated patch management.
-- 🎓 **Language Consultancy**: IELTS Trainer focusing on analytical strategies and Band 7+ attainment.
-- 🤖 **Innovation**: Integrating AI and automation to create adaptive learning tools and self-healing networks.
-- 🔭 **Current Focus**: Enhancing CI/CD pipelines for infrastructure-as-code and AI-driven educational aids.
+- **Microsoft Endpoint Management (Intune, Autopilot, Compliance)**
+- **Azure AD • Conditional Access • Identity Security**
+- **Windows Server • AD • DNS • DHCP • Group Policy**
+- **Microsoft 365 Administration & Security**
+- **Patch Automation & Endpoint Protection**
+- **ITIL-aligned Support & Operations**
+- **IT Asset Lifecycle & Vendor Management**
+- **Network Monitoring & Troubleshooting**
+- **PowerShell Automation & Scripting**
+- **Healthcare & Corporate IT Environments**
 
 ---
 
-## 🛠 Tech Stack & Expertise
+## 🛠 Frequently-Used Tools & Platforms
 
-### 🌐 Infrastructure & Cloud
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### 🏢 Workplace & Identity
+![Azure AD](https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-2E77BB?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### 🌐 Infrastructure
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### 💻 Scripting & Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### ⚙️ Automation & DevOps
+![PowerShell](https://img.shields.io/badge/Powershell-2D7DB8?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### 📊 Monitoring & Security
-![Nagios](https://img.shields.io/badge/Nagios-74B033?style=for-the-badge&logo=nagios&logoColor=white)
+### 🔐 Monitoring & Security
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![PRTG](https://img.shields.io/badge/PRTG_Monitoring-0093DD?style=for-the-badge)
+![SCCM](https://img.shields.io/badge/SCCM%2F_MECM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
-## 📖 Dual Professional Focus
+## 📌 What I Work On
 
-### 🔧 The IT Engineer
-* **Infrastructure Design**: Orchestrating enterprise-grade monitoring and scalable network systems.
-* **Endpoint Management**: Streamlining deployment and security through SCCM and Intune.
-* **SecOps Advocate**: Implementing zero-trust principles and robust automation to future-proof environments.
+### 🔧 IT Infrastructure & Operations
+- Secure & manage enterprise-scale device fleets  
+- Build & support hybrid identity environments  
+- Improve reliability through automation & monitoring  
+- Lead incident response & user-focused IT support  
+- Standardize processes using ITIL principles  
 
-### 🎓 The IELTS Trainer
-* **Analytical Frameworks**: Transitioning learners from rote memorization to high-scoring logic.
-* **EdTech Integration**: Developing custom AI flashcards and voice-integrated tools for immersion.
-* **Strategic Planning**: Tailoring roadmaps that prioritize cognitive retention and exam mastery.
-
----
-
-## 🚀 GitHub Highlights
-
-- **[Project Name]**: ⚙️ PowerShell scripts for automated AD health audits.
-- **[Project Name]**: 📚 A Python-based IELTS vocabulary generator using AI.
-- **[Project Name]**: 🧩 Ansible playbooks for rapid Linux server hardening.
+### 🎓 Tech-Enabled Education
+- IELTS strategy mentoring  
+- AI-assisted learning tools  
+- Clarity-focused communication coaching  
 
 ---
 
-## 💎 What Drives Me
-> "The intersection of technology and education is where the most profound growth happens. I build systems that work and empower the people who use them."
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Blog](https://img.shields.io/badge/Personal_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](YOUR_BLOG_URL)
+## 🧠 Current Focus
+- Zero-Trust & Identity Security  
+- Endpoint Compliance & Hardening  
+- Automation-first IT Operations  
+- Cloud-centric workplace transformation  
 
 ---
-*“Technology and education are the twin engines powering the next generation.”*
+
+## 📂 Featured Work (More Coming)
+
+- ⚙ **PowerShell Toolkit for AD Health & Security Audits**
+- 🤖 **AI-Driven IELTS Vocabulary & Practice Engine**
+- 🧩 **Linux Server Hardening Templates & Playbooks**
+
+I ship quietly — and share when it’s polished.
+
+---
+
+## 💡 My Approach to Technology
+
+> **Simple. Secure. Human-Centered.**  
+> Technology should solve problems — not create them.
+
+I believe in systems that are:
+
+✔ predictable  
+✔ reliable  
+✔ easy for users  
+✔ secure by default  
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Ahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+
+🌍 Open to collaboration | infrastructure | automation | EdTech
+
+---
+
+### ⭐ Final Thought
+I’m constantly learning, refining, and building — whether it’s **secure IT infrastructure or smarter ways to learn**.  
+If you’re working on something meaningful and want a collaborator who combines **technical depth with people-first thinking**, let’s talk.
