@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 💎 PREMIUM CYBER HEADER -->
-<h1><code> 🛰️ AHMAD MUSTAQUIM </code></h1>
+<h1><code> 🛰️MUSTAQUIM AHMAD </code></h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=%3E_INFRASTRUCTURE+ARCHITECT;%3E_AZURE+AD+%2B+INTUNE+SPECIALIST;%3E_IT+OPERATIONS+ENGINEER;%3E_TECH+EDUCATOR+%2B+IELTS+MENTOR" alt="Typing SVG" />
 
